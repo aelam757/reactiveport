@@ -1,0 +1,7 @@
+# My struggle Part 1.2
+
+The thing I struggle with the most this is finding where in the code that is broken. Sometimes its very obvious. The thing Ive learned to do that probable slows me down the most is having the portfolio open is on a live server and doing small changes. I know you can use the "inspect" tool to make this easier. But I having to flip back in forth for the same reason just to write into VS makes it feel like more work than it needs to be.
+
+My motivation behind the project is to show myself that I can come from working in a field that has no gratification. To seeing this picture I have in my head come to life. I think this is the most gratifying thing about this whole class and learning process. But playing with the code to figure out whats causing it to "not work" is the hardest part. I really enjoy learning the new tools to "make it easier" for developers but all I've done is break more code. As soons as I try to plug in this tool, it breaks what I spent 4-5 hours fixing. I know that its all apart of the practice. I'll get past it but I'll be honest I just sit back an laugh because I don't understand how a tool just brakes what you. 
+
+What I did for this project, is use bootstrap's column, grid and row system so that my page would be reactive on cellular devices. 

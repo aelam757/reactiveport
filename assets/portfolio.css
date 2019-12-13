@@ -1,0 +1,145 @@
+
+p {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    padding-top: 200px;
+}
+body {
+    background-image: url(https://wallpaperaccess.com/full/149776.jpg);
+	background-size: cover;
+	
+}
+#line1{
+  padding-top: 50px;
+  font-size: 20px;
+  text-align: left;
+}
+#button {
+  background-color: rgb(187, 9, 9);
+}
+#box {
+	display: block;
+	float: left;
+	position: relative;
+	padding: 15px;
+	margin: 15px;
+}
+#box img {
+	max-width: 400px;
+	width: 100%;
+}
+.container {
+	background-color: white;
+	width: 940px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-bottom: 35px;
+	margin-top: 35px;
+	position: relative;
+	border-width: 1.2px;
+	border-color: black;
+	border-style: solid;
+	padding-bottom: 100px;
+}
+#container {
+	text-align: center;
+	padding: 20px;
+}
+#container1 {
+	padding: 20px;
+}
+li {
+	display: inline-block;
+	padding: 10px;
+	right: 15%;
+}
+#img-1 {
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 18px;
+}
+.contact {
+	height: 100%;
+	width: 100%;
+}
+textarea {
+	width: 100%;
+	height: 500px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+input[type="text"] {
+	width: 50%;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.box1 {
+	padding-top: 11px;
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+}
+.box2 {
+	padding-left: 10px;
+	padding-top: 11px;
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+}
+.box3 {
+	padding-top: 8px;
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+}
+.box4 {
+	padding-left: 10px;
+	padding-top: 8px;
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+}
+.text {
+	color: black;
+	background-color:white;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	left: 0px;
+	top: 369px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+	padding-top: 5px;
+
+}
+#content {
+	float: right;
+	width: 960px;
+	margin:auto;
+	padding-top: 150px;
+	text-align: center;
+}
+img {
+	border-radius: 10px;
+}
+h1 {
+	color: rgb(187, 9, 9);
+}
+.footer {
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 38px;
+}
+.fixed-bottom {
+	background-color: black;
+	color: white;
+	margin-top: 10px;
+	padding-top: 0px;
+	height: 40px;
+	text-align: center;
+}
