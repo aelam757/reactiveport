@@ -1,7 +1,7 @@
 p {
     font-size: 30px;
     text-align: center;
-    color: white;
+    color: whitesmoke;
     padding: 10px;
     padding-top: 200px;
 }
@@ -41,7 +41,7 @@ body {
 	width: 100%;
 }
 .container {
-	color:white;
+	color:whitesmoke;
 	background-color: transparent;
 	width: 940px;
 	padding: 40px;
@@ -133,9 +133,7 @@ input[type="text"] {
 img {
 	border-radius: 10px;
 }
-h1 {
-	color: rgb(187, 9, 9);
-}
+
 .footer {
 	width: 100%;
 	background-color: black;
