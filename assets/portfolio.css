@@ -6,7 +6,7 @@ p {
     padding-top: 200px;
 }
 body {
-    background-image: url(https://wallpaperaccess.com/full/149776.jpg);
+    background-image: url(https://wallpaperplay.com/walls/full/d/f/a/79361.jpg);
 	background-size: cover;
 	
 }
@@ -18,9 +18,9 @@ body {
   justify-content: center;
   position: relative;
 }
-#line2{	
+.row{	
 	padding-top: 50px;
-	padding-left: 15%;
+	padding-left: 0%;
 	font-size: 20px;
 	text-align: left;
 	justify-content: center;
@@ -109,6 +109,10 @@ input[type="text"] {
 	display: inline-block;
 	position: relative;
 	border-radius: 10px;
+}
+.box1,.box2,.box3,.box4:hover{
+	
+
 }
 .text {
 	color: whitesmoke;
