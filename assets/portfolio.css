@@ -97,12 +97,6 @@ input[type="text"] {
 	position: relative;
 	border-radius: 10px;
 }
-.box3 {
-	padding-top: 8px;
-	display: inline-block;
-	position: relative;
-	border-radius: 10px;
-}
 .box4 {
 	padding-left: 10px;
 	padding-top: 8px;
@@ -110,8 +104,10 @@ input[type="text"] {
 	position: relative;
 	border-radius: 10px;
 }
-.box1,.box2,.box3,.box4:hover{
-	
+.text:hover{
+	box-shadow: inset 0 0 0 4px #df4d4d65;
+	cursor: pointer;
+
 
 }
 .text {
@@ -125,7 +121,7 @@ input[type="text"] {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	text-align: center;
 	padding-top: 5px;
-
+	box-shadow: inset 0 0 0 4px #df4d4d65;
 }
 #content {
 	float: right;
