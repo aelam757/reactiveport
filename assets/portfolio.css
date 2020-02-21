@@ -26,9 +26,6 @@ body {
 	justify-content: center;
 	position: relative;
 }
-#button {
-  background-color: rgb(187, 9, 9);
-}
 #box {
 	display: block;
 	float: left;
@@ -44,19 +41,19 @@ body {
 	color:whitesmoke;
 	background-color: transparent;
 	width: 940px;
-	padding: 40px;
+	/* padding: 40px; */
 	margin: 0 auto;
 	margin-bottom: 35px;
 	margin-top: 35px;
 	position: relative;
-	padding-bottom: 100px;
+	/* padding-bottom: 100px; */
 }
 #container {
 	text-align: center;
-	padding: 20px;
+	/* padding: 20px; */
 }
 #container1 {
-	padding: 20px;
+	/* padding: 20px; */
 }
 li {
 	display: inline-block;
@@ -85,6 +82,7 @@ input[type="text"] {
 	margin-bottom: 10px;
 }
 .box1 {
+	padding-left: 10px;
 	padding-top: 11px;
 	display: inline-block;
 	position: relative;
@@ -104,12 +102,6 @@ input[type="text"] {
 	position: relative;
 	border-radius: 10px;
 }
-.text:hover{
-	box-shadow: inset 0 0 0 4px #df4d4d65;
-	cursor: pointer;
-
-
-}
 .text {
 	color: whitesmoke;
 	background-color:transparent;
@@ -118,10 +110,8 @@ input[type="text"] {
 	position: absolute;
 	left: 0px;
 	top: 369px;
-	font-family: Georgia, 'Times New Roman', Times, serif;
 	text-align: center;
 	padding-top: 5px;
-	box-shadow: inset 0 0 0 4px #df4d4d65;
 }
 #content {
 	float: right;
