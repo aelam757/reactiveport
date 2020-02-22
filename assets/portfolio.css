@@ -50,10 +50,10 @@ body {
 }
 #container {
 	text-align: center;
-	/* padding: 20px; */
+	padding: 20px;
 }
 #container1 {
-	/* padding: 20px; */
+	padding: 20px;
 }
 li {
 	display: inline-block;
