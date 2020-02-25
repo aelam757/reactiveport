@@ -1,3 +1,6 @@
+/* *{border: solid pink 
+
+} */
 p {
     font-size: 20px;
     text-align: center;
@@ -84,24 +87,29 @@ input[type="text"] {
 .box1 {
 	padding-left: 10px;
 	padding-top: 11px;
-	display: inline-block;
+	display: block;
 	position: relative;
 	border-radius: 10px;
 }
 .box2 {
-	padding-left: 10px;
-	padding-top: 11px;
+	padding: 10px;
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+}
+.box3 {
+	padding: 10px;
 	display: inline-block;
 	position: relative;
 	border-radius: 10px;
 }
 .box4 {
-	padding-left: 10px;
-	padding-top: 8px;
+	padding: 10px;
 	display: inline-block;
 	position: relative;
 	border-radius: 10px;
 }
+
 .text {
 	color: whitesmoke;
 	background-color:transparent;
